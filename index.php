@@ -1,4 +1,4 @@
 <?php
-echo "Pode falar!";
+echo "You may speak!";
 ?>
 
